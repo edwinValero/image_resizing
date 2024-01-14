@@ -1,0 +1,31 @@
+{
+  "name": "nodejsimageresize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node resize.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/edwinValero/image_resizing.git"
+  },
+  "keywords": [
+    "images",
+    "resize",
+    "new",
+    "format",
+    "jpg",
+    "png"
+  ],
+  "author": "edwin valero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinValero/image_resizing/issues"
+  },
+  "homepage": "https://github.com/edwinValero/image_resizing#readme",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}

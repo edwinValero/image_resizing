@@ -1,0 +1,29 @@
+# Archivos generados por Node.js
+node_modules/
+
+# Archivos de log
+logs/
+*.log
+
+# Archivos de configuración locales
+.env
+
+# Archivos generados durante el desarrollo
+dist/
+build/
+
+# Archivos de dependencias de desarrollo
+devDependencies/
+
+# Archivo de salida de cobertura de pruebas
+coverage/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de configuración de WebStorm
+.idea/
+
+# Archivos de dependencias específicos del sistema
+.DS_Store
+Thumbs.db
